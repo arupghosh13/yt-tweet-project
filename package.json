@@ -1,0 +1,17 @@
+{
+  "name": "yt-tweet-project",
+  "version": "1.0.0",
+  "description": "this is the project which will go through all the backend topics and can be added to the resume. ",
+  "keywords": [
+    "backend",
+    "project"
+  ],
+  "license": "ISC",
+  "author": "arup ghosh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev"
+  }
+}
